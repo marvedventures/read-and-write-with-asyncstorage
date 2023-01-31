@@ -1,7 +1,7 @@
 # Read and Write with AsyncStorage in React Native
 
 - Account Preferences Settings for users.  
-- This allows their users to set their preferences for communication purposes. 
+- This allows users to set their preferences for communication purposes. 
 - This screen contains three toggle buttons to enable specific communication channels, like push notifications, marketing emails, and news updates. 
 - Use AsyncStorage module to preserve the chosen preferences even when the user quits the application
 
